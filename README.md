@@ -30,7 +30,7 @@ Users should be able to:
 
 ### Links
 
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Live Site URL: [live site](https://your-live-site-url.com)
 
 ## My process
 
@@ -40,12 +40,10 @@ Users should be able to:
 - CSS custom properties
 - Flexbox
 
-### What I learned
-
 ### Continued development
 
 doing more projects with responsiveness and involving more `JS` to improve my skills.
 
 ## Author
 
-- Frontend Mentor - [@yourusername](https://www.frontendmentor.io/profile/yourusername)
+- Frontend Mentor - [@AngwenyiOgata](https://www.frontendmentor.io/profile/AngwenyiOgata)
